@@ -3,6 +3,10 @@
 /node_modules/*
 **/node_modules
 
+./app/projet/build/
+app/projet/build/
+**/build/
+
 # Environment variables
 .env
 .env.local
